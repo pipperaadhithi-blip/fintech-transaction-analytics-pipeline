@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,transaction_type,status
+1,101,500,Deposit,Success
+2,102,200,Withdrawal,Success
+3,103,,Deposit,Failed
+4,101,300,Transfer,Success
+5,104,900,Deposit,Success
